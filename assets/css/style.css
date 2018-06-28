@@ -1,0 +1,29 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    background-image: url(../images/black-Linen.png)
+}
+
+td {
+    font-family: 'Teko', sans-serif;  
+}
+
+.panel-title {
+    background-color: #6c757d; 
+    color: white;
+}
+
+.table {
+    background-color: white;
+}
+
+.panel {
+    background-color: white;
+}
+
+.jumbotron {
+    background-color: #6c757d
+}
+
+h1 {
+    font-size: 8vh;
+}
