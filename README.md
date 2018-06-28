@@ -1,1 +1,3 @@
 # Train-Scheduler
+
+The Train Scheduler application will allow the user to input as many train routes into it in order to track the next available train for that route. The application uses firebase to store the data and recall it for the next load of the website. The website also uses moment to convert times into more user friendly formats. The app is best used for people who often take trains and need this advanced metric to know the next train stop.
